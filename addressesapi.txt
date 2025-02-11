@@ -7,7 +7,7 @@ russia.com
 singapore.com
 skk.moe
 www.visa.com.sg
-www.visa.cn
+visa.cn:80
 www.visa.com.hk
 www.visa.com.tw
 www.visa.co.jp
